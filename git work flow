@@ -1,0 +1,32 @@
+from work directory we need to add that to staging area 
+
+            work directory
+            '
+            '
+            '       by using add comnd we are adding files into satging area
+            '
+            staging area 
+            
+            after staging area we need to commit that to our personal repository for that we use commit cmnd here
+            
+            staging area
+            '
+            '
+            '      by using commit cmnd we will save the changes in users repo in users sysyem.
+            '
+            '
+            users repository
+            
+            after done with commit we have to upload our code into local repository for that we use push cmnd here
+            
+            users repo to local repo
+            
+            users rep
+            '
+            '
+            '      by using push cmnd
+            '
+            local repository  
+            
+            This local repo is available for everyone and any one can use that code here.
+            
